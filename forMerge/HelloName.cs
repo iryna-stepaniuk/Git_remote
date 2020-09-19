@@ -12,6 +12,7 @@ namespace HelloName
             Console.WriteLine("For hello_Stepaniuk!");
             Console.WriteLine("1st line");
             Console.WriteLine("2nd line");
+            Console.WriteLine("3nd line");
 
         }
     }
