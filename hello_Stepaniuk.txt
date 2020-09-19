@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 hello world
 hello again:)
 qqwwjd
 
 hello???
+=======
+hello world
+>>>>>>> parent of 5bc00e4... new message for commit
