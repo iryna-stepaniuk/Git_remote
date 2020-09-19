@@ -7,6 +7,9 @@ namespace HelloName
         static void Main(string[] args)
         {
             Console.WriteLine("Hello Stepaniuk!");
+            Console.WriteLine("Hello Stepaniuk!");
+            Console.WriteLine("Hello Stepaniuk!");
+            Console.WriteLine("Hello Stepaniuk!");
 
         }
     }
